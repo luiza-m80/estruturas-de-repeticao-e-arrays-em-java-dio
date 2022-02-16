@@ -2,7 +2,7 @@ package br.com.dio.loops;
 
 import java.util.Scanner;
 
-public class Ex4_ParEImpar {
+public class Ex4_OddsAndEvens {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package br.com.dio.loops;
 
 import java.util.Scanner;
 
-public class Ex3_MaiorEMedia {
+public class Ex3_BiggerAndMedia {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
